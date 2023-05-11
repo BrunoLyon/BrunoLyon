@@ -1,18 +1,26 @@
-### Ola me chamo Bruno Lyon, seja bem vindo.
+### 📖📝Ola! Eu sou Bruno Lyon, seja bem vindo.📝📖
+🕹️-Analista de Qualidade e Testes de Software.
 
-Sou Analista de Qualidade e Testes de Software
-Atualmente cursando o 1° Ano de Analise de sistemaas,
-sou um profissional que esta sempre em constante aprendizado, com conhecimento em diferentes tecnologias
+🔎-Estou sempre em constante aprendizado.
 
-🐜🐛🐞...☕🤓💻🔎...🐜🐛🐞
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/bruno-lyon-041a42ab/" rel="nofollow"><img src="https://camo.githubusercontent.com/2470e8147fe39c418eee41277de7c140c25cc6e84ceaea745573be16c8c572f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3636313046323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d464646464646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6272756e6f677369712f" data-canonical-src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=FFFFFF&amp;link=https://www.linkedin.com/in/bruno-lyon-041a42ab/" style="max-width: 100%;">
-</a><a href="https://github.com/BrunoLyon"><img src="https://camo.githubusercontent.com/5c2564918970e21e482e6e897ca05641fb82fcb3aab22a00cbe3794806d29bf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622e496f2d3636313046323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b74726565266c6f676f436f6c6f723d464646464646266c696e6b3d5b68747470733a2f2f6769746875622e636f6d2f6272756e6f677369712f6272756e6f677369712e6769746875622e696f5d" data-canonical-src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&amp;logo=Linktree&amp;logoColor=FFFFFF&amp;link=[https://github.com/BrunoLyon]" style="max-width: 100%;"> 
-</a><a href="https://linktr.ee/BrunoLyon" rel="nofollow"><img src="https://camo.githubusercontent.com/d834facd6fd49806a8b0d937add8b1d305723a21d68848f416f0df7d99136be3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b747265652d3636313046323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b74726565266c6f676f436f6c6f723d464646464646266c696e6b3d5b68747470733a2f2f6c696e6b74722e65652f6272756e6f677369715d" data-canonical-src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&amp;logo=Linktree&amp;logoColor=FFFFFF&amp;link=[https://linktr.ee/BrunoLyon]" style="max-width: 100%;">
-
-</a></p>
-![Bruno Lyon F.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLyon&show_icons=true&theme=radical) 
+🔍-Com conhecimento em diferentes tecnologias
 
 
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/BrunoLyon?utm_source=linktree_profile_share&ltsid=a1fe97c2-39fd-4b0c-804c-f2624da97340)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white{https://www.linkedin.com/in/bruno-lyon-041a42ab/})](https://www.linkedin.com/in/bruno-lyon-041a42ab/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoLyon)
+
+### Ferramentas & Frameworks
+![java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLyon&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
