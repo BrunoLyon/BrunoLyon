@@ -23,8 +23,8 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLyon&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLyon&langs_count=8)](https://github.com/BrunoLyon/github-readme-stats)
+![Bruno Lyon GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLyon&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLyon&langscount=compact)](https://github.com/BrunoLyon/github-readme-stats)
 
 
 
